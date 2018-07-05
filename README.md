@@ -24,19 +24,7 @@
 
 **2. Business Use Case**
 
-- You are a engineer who h3.1. Basic Requirements
-Knowledge on Linux
-Understanding of Hybrid Cloud concepts
-Basic understanding of ManageIQ, Ansible
-Understanding of  SCM (e.g. - git)
-Create your own GitHub repository
-Install Ansible
-Install Ansible tower
-Playbook to deploy ManageIQ
-Get understanding of how postgres db dump and restore works
-Playbooks to load a database into ManageIQ
-GitHub repository
-as been given the task to automate the restoring of custom databases for ManageIQ
+- You are a engineer who has been given the task to automate the restoring of custom databases for ManageIQ
 - This assignment would ultimately save a lot of time from manual database restore and increase productivity of ManageIQ administrators with the help of Ansible
 
 **3. POC Requirements**
