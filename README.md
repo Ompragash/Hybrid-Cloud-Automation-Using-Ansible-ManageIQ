@@ -5,7 +5,7 @@
 1. Assignment 
 2. Business Use Case 
 3. POC Requirements
-3.1. Basic Requirements 
+4. Basic Requirements 
 
 **1. Assignment**
 
@@ -44,7 +44,7 @@ as been given the task to automate the restoring of custom databases for ManageI
 - OMNI Inc management requires that you include all of the items listed in these subsections in your POC.
 - OMNI Inc has asked you to lead a project to implement the solution of preventing the repetitive task of database restore for ManageIQ using Ansible/Ansible Tower. As part of the project you have a challenge to reduce the manual effort by a huge time margin. 
 
-**3.1. Basic Requirements**
+**4. Basic Requirements**
 
 - Knowledge on Linux
 - Understanding of Hybrid Cloud concepts
@@ -56,5 +56,5 @@ as been given the task to automate the restoring of custom databases for ManageI
 - Playbook to deploy ManageIQ
 - Get understanding of how postgres db dump and restore works
 - Playbooks to load a database into ManageIQ
-- GitHub repository
+
 
